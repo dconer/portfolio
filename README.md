@@ -1,6 +1,9 @@
 # Sillas Huanuqueñas portfolio
 The main objective is to inform people about this chair's company. This website portfolio is simple and consists of only one page so I use the necessary CSS to align with the objective. The main takeaway is the design principles I applied to make it stand out and intuitive to the user.
 
+# See project
+https://dconer.github.io/portfolio/
+
 ## Table of Contents
 * Installation
 * Usage
